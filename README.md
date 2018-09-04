@@ -2,4 +2,4 @@
 
 Completed Labs for Karim Arem
 
-[link to Google!](https://www.google.com)
+[Lab 1](https://github.com/wario123/IDD-Fa18-Lab1)
