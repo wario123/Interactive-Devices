@@ -1,5 +1,7 @@
 # Interactive-Lab-Hub
 
-Completed Labs for Karim Arem
+Labs:
 
-[Lab 1](https://github.com/wario123/IDD-Fa18-Lab1)
+• [Lab 1](https://github.com/wario123/IDD-Fa18-Lab1)
+
+Assignments:
