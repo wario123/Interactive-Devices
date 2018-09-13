@@ -6,7 +6,7 @@ Karim Arem
 
 • [Lab 1](https://github.com/wario123/IDD-Fa18-Lab1) <br>
 • [Lab 2](https://github.com/wario123/IDD-Fa18-Lab2) <br>
-• [Lab 3]()
+• [Lab 3](https://github.com/wario123/IDD-Fa18-Lab3)
 
 2) Lab Prep:
 
