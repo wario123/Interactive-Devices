@@ -19,3 +19,6 @@ Karim Arem
 • [Lab 4](https://github.com/wario123/Interactive-Devices/blob/master/Lab-Prep/Lab4/Lab4.md)<br>
 • [Lab 5](https://github.com/wario123/Interactive-Devices/blob/master/Lab-Prep/Lab5/Lab5.md)<br>
 
+3) Final Project:
+
+[Final Project](https://github.com/bripfaff/IDD-Fa18-Final_Project/blob/master/README.md)
